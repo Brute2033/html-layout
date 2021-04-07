@@ -45,6 +45,7 @@ body {
     background-color: wheat;
     width: 100%;
     height: 200px;
+    -webkit-box-shadow: 10px 10px 5px 0px black;
 }
 
 .box4 {
@@ -54,6 +55,7 @@ body {
     padding: 100px;
     margin: 25px auto;
     margin-top: 25px;
+    -webkit-box-shadow: 3px 3px 5px 0px grey;
 }
 
 .box4 h1 {
